@@ -4,8 +4,8 @@
 - Mannequin  
 
 ## INPUT
-Forward : Z  
-Move Left : Q  
+Forward : Z (or W) 
+Move Left : Q (or A) 
 Backwards : S  
 Move Right : D  
 Jump : Space  
