@@ -1,4 +1,9 @@
 # Parkour
+## Dossier à récuperer pour tester (ENJMIN)
+- Animations  
+- ThirdPersonBP  
+- ThirdPerson  
+
 ## INPUT
 Forward : Z  
 Move Left : Q  
