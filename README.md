@@ -3,6 +3,7 @@
 - Animations  
 - ThirdPersonBP  
 - ThirdPerson  
+- Mannequin  
 
 ## INPUT
 Forward : Z  
