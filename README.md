@@ -12,3 +12,7 @@ Jump : Space
 Run : Shift  
 Crouch : CTRL  
 Slide : CTRL (When Running)  
+  
+## GAMEPLAY  
+Wall Run : jump in profile on the wall
+Climbing : jump from the front onto the wall
