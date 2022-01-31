@@ -12,6 +12,7 @@ Jump : Space
 Run : Shift  
 Crouch : CTRL  
 Slide : CTRL (When Running)  
+Change Person Mode : F  
   
 ## GAMEPLAY  
 Wall Run : jump in profile on the wall  
